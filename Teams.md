@@ -25,7 +25,7 @@ Venkata Dorayya Yegalapati: Dorayya62
 
 Team: Agile Developers Agilely Developing
   Sprint Length: 1 week
-	Fayazuddin Mohammed | fayu555
+	
 	William Mays | willm132
 	Samantha Stetz | camberwellbeauty
 	Austin Rude | austin-wr
@@ -41,3 +41,14 @@ Team: The Remainders
   	Timothy McCall | TiMcCall
 	John Foster | Fosterj14
 	Ethan Geiger | EthanGeiger
+	
+Team: Developers
+  Sprint Duration: 5 days
+  	Revanth Krishna Cherukuri | cherukuri.31@wright.edu
+	Vinay Chakka | vinaychakka
+	Surya Teja Sangepu | suryasangepu
+	Lekhanaa Boyina | lekhanaa17
+	Jahnavi Bandi | janu0613
+	Fayazuddin Mohammed | fayu555
+	
+	
